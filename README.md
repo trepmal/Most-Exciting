@@ -1,4 +1,4 @@
-Most-Exciting
+m0st-l33t
 =============
 
-The most exciting WordPress plugin!!
+th3 m0st 3xc1t1ng w0rdpr3ss plug1n
