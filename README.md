@@ -1,4 +1,4 @@
-Most-Exciting
+Most-Confusing
 =============
 
-The most exciting WordPress plugin!!
+The most confusing WordPress plugin??
