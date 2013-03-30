@@ -13,7 +13,7 @@
  */
 
 add_filter( 'gettext', 'most_exciting', 99 );
-function most_exciting( $t ) { 
+function most_exciting( $t ) {
 	return "$t!!";
 }
 //eof
